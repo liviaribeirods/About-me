@@ -8,7 +8,7 @@ Olá! Meu nome é Lívia e estou cursando Engenharia de Software na Universidade
 - 📚 Sempre aprendendo novas técnicas e metodologias  
 
 ## 📫 Como me encontrar  
-- LinkedIn: [seu perfil aqui]  
+- LinkedIn: https://www.linkedin.com/in/lívia-ribeiro-3b227a351/ 
 - GitHub: https://github.com/liviaribeirods  
 - E-mail: liviarib31@gmail.com  
 
